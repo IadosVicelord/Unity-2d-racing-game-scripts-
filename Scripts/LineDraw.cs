@@ -33,10 +33,6 @@ public partial class LineDraw : MonoBehaviour
     /// "Заготовка" колеса
     /// </summary>
     public GameObject wheelPrefab;
-    /// <summary>
-    /// "Заготовка" угловой точки
-    /// </summary>
-    public GameObject cornerDot;
 
     /// <summary>
     /// Камера активная при рисовании машины

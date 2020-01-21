@@ -6,12 +6,6 @@ using System.Threading.Tasks;
 
 namespace Assets.Scripts
 {
-    public enum GameModes
-    {
-        Building,
-        Driving
-    }
-
     public enum BuildModes
     {
         DrawingBody,
