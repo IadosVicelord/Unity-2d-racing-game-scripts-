@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 811d867ece941d74bb34531eeacd44f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - linePrefab: {instanceID: 0}
+  - wheelPrefab: {instanceID: 0}
+  - activeCamera: {fileID: 856615487193062829, guid: 296d53442b4bc6f48af812190d1612ac,
+      type: 3}
+  - currentLine: {instanceID: 0}
+  - currentWheel: {instanceID: 0}
+  - lineRenderer: {instanceID: 0}
+  - edgeCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
